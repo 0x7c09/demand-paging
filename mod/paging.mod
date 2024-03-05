@@ -1,0 +1,2 @@
+/home/warehouse/j.kaihe/lab-2/mod/paging.o
+

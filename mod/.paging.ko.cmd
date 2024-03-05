@@ -1,0 +1,1 @@
+cmd_/home/warehouse/j.kaihe/lab-2/mod/paging.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/warehouse/j.kaihe/lab-2/mod/paging.ko /home/warehouse/j.kaihe/lab-2/mod/paging.o /home/warehouse/j.kaihe/lab-2/mod/paging.mod.o;  true
